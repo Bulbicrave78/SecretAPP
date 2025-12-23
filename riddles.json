@@ -1,5 +1,17 @@
 [
   {
+    "id": "geo-001",
+    "question": "Quel est le plus grand désert du monde ?",
+    "answers": ["Sahara", "Gobi", "Antarctique", "Kalahari"],
+    "correctIndex": 2
+  },
+  {
+    "id": "geo-002",
+    "question": "Quel pays possède la plus grande population ?",
+    "answers": ["Inde", "États-Unis", "Chine", "Indonésie"],
+    "correctIndex": 2
+  },
+  {
     "id": "ocean-001",
     "question": "Quel est le plus grand océan du monde ?",
     "answers": ["Atlantique", "Arctique", "Pacifique", "Indien"],
@@ -10,5 +22,162 @@
     "question": "Combien font 7 × 8 ?",
     "answers": ["54", "56", "64", "48"],
     "correctIndex": 1
+  },
+  {
+    "id": "math-002",
+    "question": "Combien font 12 × 12 ?",
+    "answers": ["124", "144", "132", "156"],
+    "correctIndex": 1
+  },
+  {
+    "id": "math-003",
+    "question": "Quel est le résultat de 81 ÷ 9 ?",
+    "answers": ["7", "8", "9", "6"],
+    "correctIndex": 1
+  },
+  {
+    "id": "log-001",
+    "question": "Quel objet est le plus léger ?",
+    "answers": ["Plume", "Pierre", "Bouteille d'eau", "Livre"],
+    "correctIndex": 0
+  },
+  {
+    "id": "log-002",
+    "question": "Quel nombre vient ensuite : 2, 4, 8, 16, ... ?",
+    "answers": ["20", "24", "30", "32"],
+    "correctIndex": 3
+  },
+  {
+    "id": "log-003",
+    "question": "Si un carré a 4 côtés, combien de côtés ont 3 carrés ?",
+    "answers": ["8", "10", "12", "14"],
+    "correctIndex": 2
+  },
+  {
+    "id": "culture-001",
+    "question": "Quel est le plus long fleuve du monde ?",
+    "answers": ["Nil", "Amazone", "Yangtsé", "Mississippi"],
+    "correctIndex": 1
+  },
+  {
+    "id": "culture-002",
+    "question": "Quel est l’animal terrestre le plus rapide ?",
+    "answers": ["Guépard", "Lion", "Antilope", "Tigre"],
+    "correctIndex": 0
+  },
+  {
+    "id": "culture-003",
+    "question": "Quel est le métal le plus léger ?",
+    "answers": ["Aluminium", "Lithium", "Magnésium", "Titane"],
+    "correctIndex": 1
+  },
+  {
+    "id": "space-001",
+    "question": "Quelle est la planète la plus proche du Soleil ?",
+    "answers": ["Vénus", "Mercure", "Mars", "Terre"],
+    "correctIndex": 1
+  },
+  {
+    "id": "space-002",
+    "question": "Quelle planète est surnommée la planète rouge ?",
+    "answers": ["Mars", "Jupiter", "Saturne", "Vénus"],
+    "correctIndex": 0
+  },
+  {
+    "id": "space-003",
+    "question": "Combien de lunes possède la Terre ?",
+    "answers": ["1", "2", "3", "4"],
+    "correctIndex": 0
+  },
+  {
+    "id": "food-001",
+    "question": "Quel fruit est jaune et riche en potassium ?",
+    "answers": ["Pomme", "Banane", "Poire", "Mangue"],
+    "correctIndex": 1
+  },
+  {
+    "id": "food-002",
+    "question": "Quel aliment est la base des sushis ?",
+    "answers": ["Riz", "Pâtes", "Pain", "Quinoa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "animal-001",
+    "question": "Quel animal est le plus grand mammifère marin ?",
+    "answers": ["Orque", "Requin blanc", "Baleine bleue", "Dauphin"],
+    "correctIndex": 2
+  },
+  {
+    "id": "animal-002",
+    "question": "Quel animal pond des œufs ?",
+    "answers": ["Chien", "Chat", "Ornithorynque", "Cheval"],
+    "correctIndex": 2
+  },
+  {
+    "id": "history-001",
+    "question": "En quelle année l’homme a-t-il marché sur la Lune ?",
+    "answers": ["1969", "1972", "1958", "1965"],
+    "correctIndex": 0
+  },
+  {
+    "id": "history-002",
+    "question": "Quelle civilisation a construit les pyramides ?",
+    "answers": ["Romaine", "Égyptienne", "Grecque", "Maya"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tech-001",
+    "question": "Quel est le langage utilisé pour structurer les pages web ?",
+    "answers": ["CSS", "HTML", "Swift", "Python"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tech-002",
+    "question": "Quel appareil mesure la température ?",
+    "answers": ["Baromètre", "Thermomètre", "Altimètre", "Hygromètre"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tech-003",
+    "question": "Quel est le système d’exploitation des iPhones ?",
+    "answers": ["Android", "Windows", "iOS", "Linux"],
+    "correctIndex": 2
+  },
+  {
+    "id": "logic-004",
+    "question": "Quel nombre complète la suite : 5, 10, 20, 40, ... ?",
+    "answers": ["45", "50", "60", "80"],
+    "correctIndex": 3
+  },
+  {
+    "id": "logic-005",
+    "question": "Si tu doubles un nombre et que tu ajoutes 10, tu obtiens 30. Quel est ce nombre ?",
+    "answers": ["5", "10", "15", "20"],
+    "correctIndex": 1
+  },
+  {
+    "id": "geo-003",
+    "question": "Quel est le plus grand continent ?",
+    "answers": ["Afrique", "Asie", "Europe", "Amérique"],
+    "correctIndex": 1
+  },
+  {
+    "id": "geo-004",
+    "question": "Quel pays a la plus grande superficie ?",
+    "answers": ["États-Unis", "Canada", "Chine", "Russie"],
+    "correctIndex": 3
+  },
+  {
+    "id": "culture-004",
+    "question": "Quel est l’instrument principal d’un pianiste ?",
+    "answers": ["Guitare", "Piano", "Violon", "Flûte"],
+    "correctIndex": 1
+  },
+  {
+    "id": "culture-005",
+    "question": "Quel sport utilise une balle orange ?",
+    "answers": ["Football", "Basketball", "Tennis", "Rugby"],
+    "correctIndex": 1
   }
 ]
+
